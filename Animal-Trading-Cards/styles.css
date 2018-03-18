@@ -1,0 +1,43 @@
+#card{
+  background-color:rgb(247, 237, 230);
+  width:35%;
+  box-shadow: 0px 5px 15px 0px rgba(153,153,153,0.5);
+}
+.whole page{
+
+}
+.profile{
+  text-align: center;
+  padding:10px;
+  border-radius: 4px 4px 0px 0px;
+}
+.breed{
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 30px;
+  color:rgb(4, 32, 105);
+  border: 2px dashed rgb(242, 206, 164);
+}
+.picture{
+  height: 400px;
+  width: 300px;
+  border: 1px solid #ddd;
+}
+.introduction{
+  width:400px;
+  text-align:left;
+  margin-left: 25px;
+  padding:10px;
+  border: 2px dashed rgb(242, 206, 164);
+  border-radius:35px;
+  font-style: italic;
+  font-family: monaco, Consolas, "Lucida Console", monospace;
+}
+.description{
+  font-size: 15px;
+}
+.list{
+  margin-left:-40px;
+  font-size: 15px;
+  font-weight: bold;
+  list-style-type: none;
+}
