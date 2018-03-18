@@ -25,7 +25,7 @@
 .introduction{
   width:400px;
   text-align:left;
-  margin-left: 25px;
+  margin: auto;
   padding:10px;
   border: 2px dashed rgb(242, 206, 164);
   border-radius:35px;
