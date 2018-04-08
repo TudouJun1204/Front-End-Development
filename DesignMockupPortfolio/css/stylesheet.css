@@ -1,0 +1,28 @@
+body{
+  font-family: 'Lato', sans-serif;
+  color:#747704;
+  font-weight: 300;
+}
+.logo{
+  width:400px;
+  height:120px;
+  margin-top: 20px;
+}
+.main-image{
+  width:1100px;
+  height:400px;
+}
+.text-featured{
+  font-size: 50px;
+}
+.image{
+  width:350px;
+  height:300px;
+}
+.text-featured{
+  color:#BCBBBB;
+}
+.text-thin{
+  font-weight: 100;
+  font-size: 60px;
+}
